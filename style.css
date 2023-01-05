@@ -121,3 +121,40 @@ body {
     text-align: center;
     margin-bottom: 20px;
 }
+
+.icon{
+    font-size: 30px;
+    padding-right: 15px;
+    color: #ff8c00;
+}
+
+.facebook-icon{
+    font-size: 30px;
+    padding-right: 15px;
+    color: #2e6bf0;
+}
+.insta-icon{
+    border-radius: 4px;
+    padding-left: 2.7px;
+    padding-right: 2.5px;
+    padding-top: 1.5px;
+    padding-bottom: 1px;
+    overflow: hidden;
+    font-size: 24px;
+    margin-right: 10px;
+    background:  radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: #ffffff;
+}
+
+.twitter-icon{
+    font-size: 30px;
+    padding-right: 15px;
+    color: #15ebf3;
+}
+.icon-area>p{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+text-align: center;
+margin-bottom: 20px;
+}
